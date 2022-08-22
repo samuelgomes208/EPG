@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CNN BRASIL">
+    <display-name lang="pt">CNN BRASIL</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND NEWS">
+    <display-name lang="pt">BAND NEWS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RECORD NEWS">
+    <display-name lang="pt">RECORD NEWS</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE ACTION">
+    <display-name lang="pt">TELECINE ACTION</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE PIPOCA">
+    <display-name lang="pt">TELECINE PIPOCA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TELECINE PREMIUM">
+    <display-name lang="pt">TELECINE PREMIUM</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
